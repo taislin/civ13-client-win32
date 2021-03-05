@@ -1,0 +1,22 @@
+{
+  "name": "civ13-client-electron",
+  "version": "0.1.0",
+  "description": "civ13 in typespess, electron client",
+  "main": "main.js",
+  "author": "Civ13 Team",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/civ13/civ13-client-electron.git"
+  },
+  "dependencies": {
+    "is-electron": "^2.2.0"
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+
+}
