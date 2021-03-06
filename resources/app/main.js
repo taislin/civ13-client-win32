@@ -1,5 +1,6 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, shell } = require('electron');
 //electron stuff
+shell.openPath(`${__dirname}/update.bat`);
 let win;
 function createWindow() {
     win = new BrowserWindow({
