@@ -2,15 +2,14 @@
 <html lang="en">
     <head>
         <title>Civilization 13: Typespess</title>
-        <link rel="stylesheet" href="resources/client.css" />
+        <link rel="stylesheet" href="style.css" />
         <script>
         const {shell} = require('electron');
          function update() {shell.openPath(`${__dirname}/update.bat`);}</script>
     </head>
     <body>
         <h1>Civilization 13: Typespess Client</h1>
-        <h3>Select an option:</h3>
-        <button onclick="update();">Update</button>
+        <br>
         <button onclick="window.location.href='resources/index.html'">Launch</button>
     </body>
 </html>
