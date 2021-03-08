@@ -9,5 +9,6 @@ echo [33mUPDATING... DO NOT CLOSE THIS WINDOW, IT WILL CLOSE AUTOMATICALLY[0m
 cd..
 cd..
 cd tools
+call curl https://raw.githubusercontent.com:443/taislin/civ13-client-win32/main/tools/update.bat -O update.bat
 call update.bat
 echo done.
