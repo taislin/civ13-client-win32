@@ -1,5 +1,5 @@
-if not exist "./../resources/app/initialized" (
-  echo initialized > ./../resources/app/initialized
+if not exist "./../initialized" (
+  echo initialized > ./../initialized
   call "./init.bat" >nul
 )
 cd..
