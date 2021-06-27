@@ -1,7 +1,5 @@
-civ13-client-electron.exe
 resources/app/resources/
-resources/app/icons/
-resources/app/sound/
+resources/app/.git/
 initialized
 tools/git/
 client.app
