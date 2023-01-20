@@ -1,6 +1,4 @@
-app/resources/
-app/.git/
 initialized
 tools/git/
-client.app
 wip/
+app/resources/
