@@ -1,5 +1,5 @@
-resources/app/resources/
-resources/app/.git/
+app/resources/
+app/.git/
 initialized
 tools/git/
 client.app

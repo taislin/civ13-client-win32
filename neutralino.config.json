@@ -1,7 +1,7 @@
 {
     "applicationId": "js.neutralino.typespessclient",
     "defaultMode": "window",
-    "url": "/resources/app/",
+    "url": "/app/",
     "enableServer": true,
     "logging": {
         "enabled": false,
@@ -16,7 +16,7 @@
             "minHeight": 200,
             "fullScreen": false,
             "alwaysOnTop": false,
-            "icon": "/resources/app/resources/favicon.ico",
+            "icon": "/app/resources/favicon.ico",
             "enableInspector": false,
             "borderless": false,
             "maximize": true,

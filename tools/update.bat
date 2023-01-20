@@ -3,8 +3,6 @@ if not exist "./../initialized" (
   call "./init.bat" >nul
 )
 cd..
-cd resources/app/
+cd app/
 call "./../../tools/git/bin/git.exe" pull
-cd resources/
-call "./../../../tools/git/bin/git.exe" pull
 echo finished updating.
