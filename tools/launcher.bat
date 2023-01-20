@@ -19,7 +19,5 @@ echo.
 echo [92mYou can close this window now.[0m
 echo.
 cd..
-cd..
-cd..
 start "" "./neutralino-win_x64.exe"
 exit

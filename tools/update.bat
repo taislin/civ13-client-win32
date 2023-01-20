@@ -4,5 +4,5 @@ if not exist "./../initialized" (
 )
 cd..
 cd app/
-call "./../../tools/git/bin/git.exe" pull
+call "./../tools/git/bin/git.exe" pull
 echo finished updating.
