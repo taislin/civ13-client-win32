@@ -1,6 +1,5 @@
 call "./7za/7za.exe" x git.7z -y
 cd..
-call "./tools/7za/7za.exe" x src.7z -y
 call "./tools/7za/7za.exe" x resources.7z -y
 cd resources/app/
 call "./../../tools/git/bin/git.exe" init

@@ -1,0 +1,28 @@
+{
+    "applicationId": "js.neutralino.typespessclient",
+    "defaultMode": "window",
+    "url": "/resources/app/",
+    "enableServer": true,
+    "logging": {
+        "enabled": false,
+        "writeToLogFile": false
+    },
+    "modes": {
+        "window": {
+            "title": "Civilization 13 - Typespess",
+            "width": 1200,
+            "height": 600,
+            "minWidth": 400,
+            "minHeight": 200,
+            "fullScreen": false,
+            "alwaysOnTop": false,
+            "icon": "/resources/app/resources/favicon.ico",
+            "enableInspector": false,
+            "borderless": false,
+            "maximize": true,
+            "hidden": false,
+            "resizable": true,
+            "exitProcessOnClose": true
+        }
+    }
+}
