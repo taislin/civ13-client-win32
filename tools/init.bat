@@ -7,3 +7,4 @@ call "./../tools/git/bin/git.exe" sparse-checkout init
 call "./../tools/git/bin/git.exe" sparse-checkout set resources/
 call "./../tools/git/bin/git.exe" remote add origin https://github.com/civ13/civ13-typespess
 call "./../tools/git/bin/git.exe" fetch --depth=1 origin master
+call "./../tools/git/bin/git.exe" pull origin master
